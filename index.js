@@ -1,6 +1,5 @@
 var ProgressBar = require('progress');
 var chalk = require('chalk');
-var _ = require('lodash');
 var webpack = require('webpack');
 
 require('object.assign').shim();
